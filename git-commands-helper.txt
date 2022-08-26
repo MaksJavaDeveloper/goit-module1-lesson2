@@ -3,7 +3,7 @@ to track file by git -> git add "file name" (git add -u or git add.)
 
 to commit (save) changes -> git commit -m "your message"
 
-to checkout git history -> get log
+to checkout git history -> git log
 
 to get into certain commit -> git checkout "hash of commit"
 
