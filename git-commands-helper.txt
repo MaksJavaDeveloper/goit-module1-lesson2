@@ -12,4 +12,8 @@ ex: git push origin master
 
 to create new branch -> git checkout -b "branch name"
 
+<<<<<<< HEAD
 to merge branch -> git merge "branch name"
+=======
+my first conflict 
+>>>>>>> conflict1
